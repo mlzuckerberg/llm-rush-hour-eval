@@ -1,0 +1,685 @@
+{
+  "levels": 65,
+  "wins": 65,
+  "win_rate": 1.0,
+  "planner": "oracle",
+  "few_shot": 0,
+  "seed": 0,
+  "per_level": [
+    {
+      "id": "rush1000-418",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 41,
+      "illegal_at": null,
+      "plan_len": 41,
+      "optimal_moves": 41
+    },
+    {
+      "id": "rush1000-427",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 40,
+      "illegal_at": null,
+      "plan_len": 40,
+      "optimal_moves": 40
+    },
+    {
+      "id": "rush1000-335",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 41,
+      "illegal_at": null,
+      "plan_len": 41,
+      "optimal_moves": 41
+    },
+    {
+      "id": "rush1000-728",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 39,
+      "illegal_at": null,
+      "plan_len": 39,
+      "optimal_moves": 39
+    },
+    {
+      "id": "rush1000-583",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 39,
+      "illegal_at": null,
+      "plan_len": 39,
+      "optimal_moves": 39
+    },
+    {
+      "id": "rush1000-473",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 40,
+      "illegal_at": null,
+      "plan_len": 40,
+      "optimal_moves": 40
+    },
+    {
+      "id": "rush1000-424",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 41,
+      "illegal_at": null,
+      "plan_len": 41,
+      "optimal_moves": 41
+    },
+    {
+      "id": "rush1000-890",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 38,
+      "illegal_at": null,
+      "plan_len": 38,
+      "optimal_moves": 38
+    },
+    {
+      "id": "rush1000-733",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 39,
+      "illegal_at": null,
+      "plan_len": 39,
+      "optimal_moves": 39
+    },
+    {
+      "id": "rush1000-963",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 38,
+      "illegal_at": null,
+      "plan_len": 38,
+      "optimal_moves": 38
+    },
+    {
+      "id": "rush1000-636",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 39,
+      "illegal_at": null,
+      "plan_len": 39,
+      "optimal_moves": 39
+    },
+    {
+      "id": "rush1000-787",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 38,
+      "illegal_at": null,
+      "plan_len": 38,
+      "optimal_moves": 38
+    },
+    {
+      "id": "rush1000-970",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 38,
+      "illegal_at": null,
+      "plan_len": 38,
+      "optimal_moves": 38
+    },
+    {
+      "id": "rush1000-384",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 41,
+      "illegal_at": null,
+      "plan_len": 41,
+      "optimal_moves": 41
+    },
+    {
+      "id": "rush1000-441",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 40,
+      "illegal_at": null,
+      "plan_len": 40,
+      "optimal_moves": 40
+    },
+    {
+      "id": "rush1000-298",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 42,
+      "illegal_at": null,
+      "plan_len": 42,
+      "optimal_moves": 42
+    },
+    {
+      "id": "rush1000-996",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 38,
+      "illegal_at": null,
+      "plan_len": 38,
+      "optimal_moves": 38
+    },
+    {
+      "id": "rush1000-499",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 40,
+      "illegal_at": null,
+      "plan_len": 40,
+      "optimal_moves": 40
+    },
+    {
+      "id": "rush1000-193",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 43,
+      "illegal_at": null,
+      "plan_len": 43,
+      "optimal_moves": 43
+    },
+    {
+      "id": "rush1000-212",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 43,
+      "illegal_at": null,
+      "plan_len": 43,
+      "optimal_moves": 43
+    },
+    {
+      "id": "rush1000-57",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 47,
+      "illegal_at": null,
+      "plan_len": 47,
+      "optimal_moves": 47
+    },
+    {
+      "id": "rush1000-97",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 45,
+      "illegal_at": null,
+      "plan_len": 45,
+      "optimal_moves": 45
+    },
+    {
+      "id": "rush1000-195",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 43,
+      "illegal_at": null,
+      "plan_len": 43,
+      "optimal_moves": 43
+    },
+    {
+      "id": "rush1000-120",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 44,
+      "illegal_at": null,
+      "plan_len": 44,
+      "optimal_moves": 44
+    },
+    {
+      "id": "rush1000-100",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 45,
+      "illegal_at": null,
+      "plan_len": 45,
+      "optimal_moves": 45
+    },
+    {
+      "id": "rush1000-169",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 44,
+      "illegal_at": null,
+      "plan_len": 44,
+      "optimal_moves": 44
+    },
+    {
+      "id": "rush1000-112",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 45,
+      "illegal_at": null,
+      "plan_len": 45,
+      "optimal_moves": 45
+    },
+    {
+      "id": "rush1000-58",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 47,
+      "illegal_at": null,
+      "plan_len": 47,
+      "optimal_moves": 47
+    },
+    {
+      "id": "rush1000-229",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 43,
+      "illegal_at": null,
+      "plan_len": 43,
+      "optimal_moves": 43
+    },
+    {
+      "id": "rush1000-64",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 46,
+      "illegal_at": null,
+      "plan_len": 46,
+      "optimal_moves": 46
+    },
+    {
+      "id": "rush1000-186",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 43,
+      "illegal_at": null,
+      "plan_len": 43,
+      "optimal_moves": 43
+    },
+    {
+      "id": "rush1000-47",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 47,
+      "illegal_at": null,
+      "plan_len": 47,
+      "optimal_moves": 47
+    },
+    {
+      "id": "rush1000-160",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 44,
+      "illegal_at": null,
+      "plan_len": 44,
+      "optimal_moves": 44
+    },
+    {
+      "id": "rush1000-155",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 44,
+      "illegal_at": null,
+      "plan_len": 44,
+      "optimal_moves": 44
+    },
+    {
+      "id": "rush1000-217",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 43,
+      "illegal_at": null,
+      "plan_len": 43,
+      "optimal_moves": 43
+    },
+    {
+      "id": "rush1000-88",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 45,
+      "illegal_at": null,
+      "plan_len": 45,
+      "optimal_moves": 45
+    },
+    {
+      "id": "rush1000-34",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 48,
+      "illegal_at": null,
+      "plan_len": 48,
+      "optimal_moves": 48
+    },
+    {
+      "id": "rush1000-21",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 50,
+      "illegal_at": null,
+      "plan_len": 50,
+      "optimal_moves": 50
+    },
+    {
+      "id": "rush1000-24",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 49,
+      "illegal_at": null,
+      "plan_len": 49,
+      "optimal_moves": 49
+    },
+    {
+      "id": "rush1000-36",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 48,
+      "illegal_at": null,
+      "plan_len": 48,
+      "optimal_moves": 48
+    },
+    {
+      "id": "rush1000-28",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 49,
+      "illegal_at": null,
+      "plan_len": 49,
+      "optimal_moves": 49
+    },
+    {
+      "id": "rush1000-11",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 52,
+      "illegal_at": null,
+      "plan_len": 52,
+      "optimal_moves": 52
+    },
+    {
+      "id": "rush1000-45",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 48,
+      "illegal_at": null,
+      "plan_len": 48,
+      "optimal_moves": 48
+    },
+    {
+      "id": "rush1000-35",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 48,
+      "illegal_at": null,
+      "plan_len": 48,
+      "optimal_moves": 48
+    },
+    {
+      "id": "rush1000-26",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 49,
+      "illegal_at": null,
+      "plan_len": 49,
+      "optimal_moves": 49
+    },
+    {
+      "id": "rush1000-43",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 48,
+      "illegal_at": null,
+      "plan_len": 48,
+      "optimal_moves": 48
+    },
+    {
+      "id": "rush1000-46",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 48,
+      "illegal_at": null,
+      "plan_len": 48,
+      "optimal_moves": 48
+    },
+    {
+      "id": "rush1000-39",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 48,
+      "illegal_at": null,
+      "plan_len": 48,
+      "optimal_moves": 48
+    },
+    {
+      "id": "rush1000-44",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 48,
+      "illegal_at": null,
+      "plan_len": 48,
+      "optimal_moves": 48
+    },
+    {
+      "id": "rush1000-17",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 50,
+      "illegal_at": null,
+      "plan_len": 50,
+      "optimal_moves": 50
+    },
+    {
+      "id": "rush1000-22",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 50,
+      "illegal_at": null,
+      "plan_len": 50,
+      "optimal_moves": 50
+    },
+    {
+      "id": "rush1000-32",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 49,
+      "illegal_at": null,
+      "plan_len": 49,
+      "optimal_moves": 49
+    },
+    {
+      "id": "rush1000-41",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 48,
+      "illegal_at": null,
+      "plan_len": 48,
+      "optimal_moves": 48
+    },
+    {
+      "id": "rush1000-14",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 51,
+      "illegal_at": null,
+      "plan_len": 51,
+      "optimal_moves": 51
+    },
+    {
+      "id": "rush1000-4",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 54,
+      "illegal_at": null,
+      "plan_len": 54,
+      "optimal_moves": 54
+    },
+    {
+      "id": "rush1000-9",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 53,
+      "illegal_at": null,
+      "plan_len": 53,
+      "optimal_moves": 53
+    },
+    {
+      "id": "rush1000-8",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 53,
+      "illegal_at": null,
+      "plan_len": 53,
+      "optimal_moves": 53
+    },
+    {
+      "id": "rush1000-7",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 54,
+      "illegal_at": null,
+      "plan_len": 54,
+      "optimal_moves": 54
+    },
+    {
+      "id": "rush1000-2",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 55,
+      "illegal_at": null,
+      "plan_len": 55,
+      "optimal_moves": 55
+    },
+    {
+      "id": "rush1000-5",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 54,
+      "illegal_at": null,
+      "plan_len": 54,
+      "optimal_moves": 54
+    },
+    {
+      "id": "rush1000-6",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 54,
+      "illegal_at": null,
+      "plan_len": 54,
+      "optimal_moves": 54
+    },
+    {
+      "id": "rush1000-10",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 53,
+      "illegal_at": null,
+      "plan_len": 53,
+      "optimal_moves": 53
+    },
+    {
+      "id": "rush1000-3",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 55,
+      "illegal_at": null,
+      "plan_len": 55,
+      "optimal_moves": 55
+    },
+    {
+      "id": "rush1000-1",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 58,
+      "illegal_at": null,
+      "plan_len": 58,
+      "optimal_moves": 58
+    },
+    {
+      "id": "rush1000-0",
+      "planner": "oracle",
+      "few_shot": 0,
+      "won": true,
+      "applied": 60,
+      "illegal_at": null,
+      "plan_len": 60,
+      "optimal_moves": 60
+    }
+  ],
+  "levels_file_meta": {
+    "source_file": "data/rush1000.txt",
+    "bins": "38-42,43-47,48-52,53-60",
+    "per_bin_target": 18,
+    "seed": 42,
+    "counts_per_bin": {
+      "38-42": {
+        "available": 766,
+        "selected": 18
+      },
+      "43-47": {
+        "available": 187,
+        "selected": 18
+      },
+      "48-52": {
+        "available": 36,
+        "selected": 18
+      },
+      "53-60": {
+        "available": 11,
+        "selected": 11
+      }
+    },
+    "total_selected": 65
+  }
+}

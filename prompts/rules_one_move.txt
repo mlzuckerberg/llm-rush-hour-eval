@@ -1,0 +1,10 @@
+You are solving Rush Hour on a 6×6 grid (same rules as the full-game prompt: sliding vehicles along their axis, A is the horizontal goal car, empty cells o, walls x).
+
+You will see the **current** board state after any moves already made.
+
+Output **exactly one** legal next move — a single line:
+LETTER STEPS
+- Horizontal piece: negative = left, positive = right.
+- Vertical piece: negative = up, positive = down.
+
+No numbering, no markdown fences, no explanation — only that one line.

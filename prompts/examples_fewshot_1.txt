@@ -1,0 +1,12 @@
+Example puzzle 1 (6×6, optimal solution length 1):
+
+ooAAoo
+oooooo
+oooooo
+oooooo
+oooooo
+oooooo
+
+Solution (one move line per line, same format you must use):
+
+A +2

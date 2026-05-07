@@ -1,0 +1,15 @@
+# Copy to config.yaml and adjust (config.yaml is gitignored if you add it to .gitignore).
+
+llm:
+  provider: openai
+  model: gpt-4o-mini
+  # Other checked-in configs: config.gpt4o.yaml, config.gpt54mini.yaml, config.gpt54.yaml. See docs/EXPERIMENT_RUNS.md.
+
+paths:
+  # Main paper eval set (stratified by optimal_moves; see docs/RUNBOOK.md)
+  levels_json: data/levels_eval.json
+
+eval:
+  max_levels: 20
+  temperature: 0.0
+  few_shot_examples: 0  # 0, 1, or 2

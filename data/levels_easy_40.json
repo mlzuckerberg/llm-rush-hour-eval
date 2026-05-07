@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "source_file": "data/rush1000.txt",
+    "bins": "38-42,43-47,48-52,53-60",
+    "per_bin_target": 18,
+    "seed": 42,
+    "counts_per_bin": {
+      "38-42": {
+        "available": 766,
+        "selected": 18
+      },
+      "43-47": {
+        "available": 187,
+        "selected": 18
+      },
+      "48-52": {
+        "available": 36,
+        "selected": 18
+      },
+      "53-60": {
+        "available": 11,
+        "selected": 11
+      }
+    },
+    "total_selected": 65,
+    "easy_subset": true,
+    "max_optimal": 40,
+    "source_input": "data/levels_eval.json",
+    "original_count": 65,
+    "kept_count": 13
+  },
+  "levels": [
+    {
+      "id": "rush1000-427",
+      "optimal_moves": 40,
+      "board": "oooxLoHCCKLMHAAKLMDDJooooIJEEooIFFGG",
+      "cluster": 24328
+    },
+    {
+      "id": "rush1000-728",
+      "optimal_moves": 39,
+      "board": "BBoxDDoooLEEAAoLoMJFFGGMJoKoHHJoKxoo",
+      "cluster": 1509
+    },
+    {
+      "id": "rush1000-583",
+      "optimal_moves": 39,
+      "board": "xCCCoLHoJDDLHoJAALHEEKoooIoKFFoIGGGo",
+      "cluster": 11902
+    },
+    {
+      "id": "rush1000-473",
+      "optimal_moves": 40,
+      "board": "BBBHooFooHJKFAAIJKCCGIJLooGDDLooxooo",
+      "cluster": 5136
+    },
+    {
+      "id": "rush1000-890",
+      "optimal_moves": 38,
+      "board": "HBBCCKHDDJoKAAIJoLooIEELFFIoooooooox",
+      "cluster": 4114
+    },
+    {
+      "id": "rush1000-733",
+      "optimal_moves": 39,
+      "board": "GBBKooGoIKCCHoIAALHoJDDLooJEEMxooooM",
+      "cluster": 1323
+    },
+    {
+      "id": "rush1000-963",
+      "optimal_moves": 38,
+      "board": "GBBBKLGoHIKLAAHIoLCCCJoooooJDDooxoxo",
+      "cluster": 1733
+    },
+    {
+      "id": "rush1000-636",
+      "optimal_moves": 39,
+      "board": "xoIKDDEEIKoLxHAAoLoHFFoMGGJooMooJooo",
+      "cluster": 4457
+    },
+    {
+      "id": "rush1000-787",
+      "optimal_moves": 38,
+      "board": "ooJBBxIoJDDNIAAKoNoooKEExGGLMooHHLMo",
+      "cluster": 22008
+    },
+    {
+      "id": "rush1000-970",
+      "optimal_moves": 38,
+      "board": "BBCCoKoxEEEKAAIJoKHoIJFFHGGGoooooooo",
+      "cluster": 1449
+    },
+    {
+      "id": "rush1000-441",
+      "optimal_moves": 40,
+      "board": "oJBBoxoJoLDDoAALoMEEKFFMIoKGGoIoKHHH",
+      "cluster": 13617
+    },
+    {
+      "id": "rush1000-996",
+      "optimal_moves": 38,
+      "board": "ooKBBBCCKLMNJAALMNJDDooOEEoxxOHHHIIO",
+      "cluster": 1078
+    },
+    {
+      "id": "rush1000-499",
+      "optimal_moves": 40,
+      "board": "HIBBCCHIoDDxHAAKLoFFFKLoooJoLMooJGGM",
+      "cluster": 2721
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+file,first_move_valid_rate,levels,mean_api_calls_per_level,mean_applied_prefix,median_optimal,planner,protocol,retry_on_illegal,self_consistency_k,win_rate,wins
+evaluation_outputs/openai_iterative_20.json,0.2,20,1.25,0.25,40.0,openai,iterative_one_move,False,1,0.0,0
+evaluation_outputs/openai_iterative_20_sc3_retry.json,0.2,20,6.75,0.25,40.0,openai,iterative_one_move,True,3,0.0,0

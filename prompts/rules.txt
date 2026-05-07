@@ -1,0 +1,18 @@
+You are solving Rush Hour (sliding block) puzzles on a 6×6 grid.
+
+Rules:
+- Each labeled vehicle (A–Z) is a straight car (length 2) or truck (length 3) made of one letter repeated in adjacent cells.
+- Vehicles lie horizontally or vertically and may only slide along that axis.
+- One move: pick one vehicle and slide it any number of cells in its allowed direction until the next cell in that direction is blocked by another vehicle, a wall (x), or the grid edge. You cannot turn a vehicle.
+- Piece A is the goal car (always horizontal). It must reach the exit on the right edge of its row (the opening on the right side of the board for that row).
+- Important: A is often **blocked** at the start—do not assume you can move A first. Every move you output must be **physically possible** on the grid you see (if the next cell in that direction is blocked, that slide length is illegal).
+- Empty cells are marked o (or .). Walls are x.
+
+You will be given the board as a 6-line ASCII grid (same letters as the puzzle).
+
+Output format (strict):
+- For a full solution, output one move per line: LETTER then a space then a signed integer STEPS.
+- Horizontal vehicle: negative STEPS moves left, positive moves right.
+- Vertical vehicle: negative STEPS moves up, positive moves down.
+- Example line: B +2
+- No prose, no markdown fences, no numbering—only move lines.

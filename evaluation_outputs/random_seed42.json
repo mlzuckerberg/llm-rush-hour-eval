@@ -1,0 +1,555 @@
+{
+  "levels": 65,
+  "wins": 21,
+  "win_rate": 0.3230769230769231,
+  "planner": "random",
+  "few_shot": 0,
+  "seed": 42,
+  "per_level": [
+    {
+      "id": "rush1000-418",
+      "planner": "random",
+      "few_shot": 0,
+      "won": true,
+      "moves_tried": 4342,
+      "optimal_moves": 41
+    },
+    {
+      "id": "rush1000-427",
+      "planner": "random",
+      "few_shot": 0,
+      "won": true,
+      "moves_tried": 4015,
+      "optimal_moves": 40
+    },
+    {
+      "id": "rush1000-335",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 41
+    },
+    {
+      "id": "rush1000-728",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 39
+    },
+    {
+      "id": "rush1000-583",
+      "planner": "random",
+      "few_shot": 0,
+      "won": true,
+      "moves_tried": 5781,
+      "optimal_moves": 39
+    },
+    {
+      "id": "rush1000-473",
+      "planner": "random",
+      "few_shot": 0,
+      "won": true,
+      "moves_tried": 6721,
+      "optimal_moves": 40
+    },
+    {
+      "id": "rush1000-424",
+      "planner": "random",
+      "few_shot": 0,
+      "won": true,
+      "moves_tried": 4582,
+      "optimal_moves": 41
+    },
+    {
+      "id": "rush1000-890",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 38
+    },
+    {
+      "id": "rush1000-733",
+      "planner": "random",
+      "few_shot": 0,
+      "won": true,
+      "moves_tried": 4240,
+      "optimal_moves": 39
+    },
+    {
+      "id": "rush1000-963",
+      "planner": "random",
+      "few_shot": 0,
+      "won": true,
+      "moves_tried": 6357,
+      "optimal_moves": 38
+    },
+    {
+      "id": "rush1000-636",
+      "planner": "random",
+      "few_shot": 0,
+      "won": true,
+      "moves_tried": 5173,
+      "optimal_moves": 39
+    },
+    {
+      "id": "rush1000-787",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 38
+    },
+    {
+      "id": "rush1000-970",
+      "planner": "random",
+      "few_shot": 0,
+      "won": true,
+      "moves_tried": 4164,
+      "optimal_moves": 38
+    },
+    {
+      "id": "rush1000-384",
+      "planner": "random",
+      "few_shot": 0,
+      "won": true,
+      "moves_tried": 2918,
+      "optimal_moves": 41
+    },
+    {
+      "id": "rush1000-441",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 40
+    },
+    {
+      "id": "rush1000-298",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 42
+    },
+    {
+      "id": "rush1000-996",
+      "planner": "random",
+      "few_shot": 0,
+      "won": true,
+      "moves_tried": 6407,
+      "optimal_moves": 38
+    },
+    {
+      "id": "rush1000-499",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 40
+    },
+    {
+      "id": "rush1000-193",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 43
+    },
+    {
+      "id": "rush1000-212",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 43
+    },
+    {
+      "id": "rush1000-57",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 47
+    },
+    {
+      "id": "rush1000-97",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 45
+    },
+    {
+      "id": "rush1000-195",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 43
+    },
+    {
+      "id": "rush1000-120",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 44
+    },
+    {
+      "id": "rush1000-100",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 45
+    },
+    {
+      "id": "rush1000-169",
+      "planner": "random",
+      "few_shot": 0,
+      "won": true,
+      "moves_tried": 3419,
+      "optimal_moves": 44
+    },
+    {
+      "id": "rush1000-112",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 45
+    },
+    {
+      "id": "rush1000-58",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 47
+    },
+    {
+      "id": "rush1000-229",
+      "planner": "random",
+      "few_shot": 0,
+      "won": true,
+      "moves_tried": 3483,
+      "optimal_moves": 43
+    },
+    {
+      "id": "rush1000-64",
+      "planner": "random",
+      "few_shot": 0,
+      "won": true,
+      "moves_tried": 6292,
+      "optimal_moves": 46
+    },
+    {
+      "id": "rush1000-186",
+      "planner": "random",
+      "few_shot": 0,
+      "won": true,
+      "moves_tried": 5514,
+      "optimal_moves": 43
+    },
+    {
+      "id": "rush1000-47",
+      "planner": "random",
+      "few_shot": 0,
+      "won": true,
+      "moves_tried": 5840,
+      "optimal_moves": 47
+    },
+    {
+      "id": "rush1000-160",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 44
+    },
+    {
+      "id": "rush1000-155",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 44
+    },
+    {
+      "id": "rush1000-217",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 43
+    },
+    {
+      "id": "rush1000-88",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 45
+    },
+    {
+      "id": "rush1000-34",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 48
+    },
+    {
+      "id": "rush1000-21",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 50
+    },
+    {
+      "id": "rush1000-24",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 49
+    },
+    {
+      "id": "rush1000-36",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 48
+    },
+    {
+      "id": "rush1000-28",
+      "planner": "random",
+      "few_shot": 0,
+      "won": true,
+      "moves_tried": 6159,
+      "optimal_moves": 49
+    },
+    {
+      "id": "rush1000-11",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 52
+    },
+    {
+      "id": "rush1000-45",
+      "planner": "random",
+      "few_shot": 0,
+      "won": true,
+      "moves_tried": 5293,
+      "optimal_moves": 48
+    },
+    {
+      "id": "rush1000-35",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 48
+    },
+    {
+      "id": "rush1000-26",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 49
+    },
+    {
+      "id": "rush1000-43",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 48
+    },
+    {
+      "id": "rush1000-46",
+      "planner": "random",
+      "few_shot": 0,
+      "won": true,
+      "moves_tried": 4456,
+      "optimal_moves": 48
+    },
+    {
+      "id": "rush1000-39",
+      "planner": "random",
+      "few_shot": 0,
+      "won": true,
+      "moves_tried": 4450,
+      "optimal_moves": 48
+    },
+    {
+      "id": "rush1000-44",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 48
+    },
+    {
+      "id": "rush1000-17",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 50
+    },
+    {
+      "id": "rush1000-22",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 50
+    },
+    {
+      "id": "rush1000-32",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 49
+    },
+    {
+      "id": "rush1000-41",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 48
+    },
+    {
+      "id": "rush1000-14",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 51
+    },
+    {
+      "id": "rush1000-4",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 54
+    },
+    {
+      "id": "rush1000-9",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 53
+    },
+    {
+      "id": "rush1000-8",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 53
+    },
+    {
+      "id": "rush1000-7",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 54
+    },
+    {
+      "id": "rush1000-2",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 55
+    },
+    {
+      "id": "rush1000-5",
+      "planner": "random",
+      "few_shot": 0,
+      "won": true,
+      "moves_tried": 6176,
+      "optimal_moves": 54
+    },
+    {
+      "id": "rush1000-6",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 54
+    },
+    {
+      "id": "rush1000-10",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 53
+    },
+    {
+      "id": "rush1000-3",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 55
+    },
+    {
+      "id": "rush1000-1",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 58
+    },
+    {
+      "id": "rush1000-0",
+      "planner": "random",
+      "few_shot": 0,
+      "won": false,
+      "moves_tried": 8000,
+      "optimal_moves": 60
+    }
+  ],
+  "levels_file_meta": {
+    "source_file": "data/rush1000.txt",
+    "bins": "38-42,43-47,48-52,53-60",
+    "per_bin_target": 18,
+    "seed": 42,
+    "counts_per_bin": {
+      "38-42": {
+        "available": 766,
+        "selected": 18
+      },
+      "43-47": {
+        "available": 187,
+        "selected": 18
+      },
+      "48-52": {
+        "available": 36,
+        "selected": 18
+      },
+      "53-60": {
+        "available": 11,
+        "selected": 11
+      }
+    },
+    "total_selected": 65
+  }
+}

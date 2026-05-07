@@ -1,0 +1,183 @@
+{
+  "levels": 13,
+  "wins": 0,
+  "win_rate": 0.0,
+  "planner": "openai",
+  "few_shot": 2,
+  "seed": 0,
+  "per_level": [
+    {
+      "id": "rush1000-427",
+      "planner": "openai",
+      "few_shot": 2,
+      "won": false,
+      "applied": 1,
+      "illegal_at": 1,
+      "plan_len_parsed": 6,
+      "optimal_moves": 40,
+      "raw_chars": 39
+    },
+    {
+      "id": "rush1000-728",
+      "planner": "openai",
+      "few_shot": 2,
+      "won": false,
+      "applied": 0,
+      "illegal_at": 0,
+      "plan_len_parsed": 3,
+      "optimal_moves": 39,
+      "raw_chars": 18
+    },
+    {
+      "id": "rush1000-583",
+      "planner": "openai",
+      "few_shot": 2,
+      "won": false,
+      "applied": 0,
+      "illegal_at": 0,
+      "plan_len_parsed": 13,
+      "optimal_moves": 39,
+      "raw_chars": 88
+    },
+    {
+      "id": "rush1000-473",
+      "planner": "openai",
+      "few_shot": 2,
+      "won": false,
+      "applied": 0,
+      "illegal_at": 0,
+      "plan_len_parsed": 10,
+      "optimal_moves": 40,
+      "raw_chars": 67
+    },
+    {
+      "id": "rush1000-890",
+      "planner": "openai",
+      "few_shot": 2,
+      "won": false,
+      "applied": 0,
+      "illegal_at": 0,
+      "plan_len_parsed": 5,
+      "optimal_moves": 38,
+      "raw_chars": 32
+    },
+    {
+      "id": "rush1000-733",
+      "planner": "openai",
+      "few_shot": 2,
+      "won": false,
+      "applied": 0,
+      "illegal_at": 0,
+      "plan_len_parsed": 6,
+      "optimal_moves": 39,
+      "raw_chars": 39
+    },
+    {
+      "id": "rush1000-963",
+      "planner": "openai",
+      "few_shot": 2,
+      "won": false,
+      "applied": 0,
+      "illegal_at": 0,
+      "plan_len_parsed": 8,
+      "optimal_moves": 38,
+      "raw_chars": 53
+    },
+    {
+      "id": "rush1000-636",
+      "planner": "openai",
+      "few_shot": 2,
+      "won": false,
+      "applied": 0,
+      "illegal_at": 0,
+      "plan_len_parsed": 3,
+      "optimal_moves": 39,
+      "raw_chars": 18
+    },
+    {
+      "id": "rush1000-787",
+      "planner": "openai",
+      "few_shot": 2,
+      "won": false,
+      "applied": 0,
+      "illegal_at": 0,
+      "plan_len_parsed": 9,
+      "optimal_moves": 38,
+      "raw_chars": 60
+    },
+    {
+      "id": "rush1000-970",
+      "planner": "openai",
+      "few_shot": 2,
+      "won": false,
+      "applied": 0,
+      "illegal_at": 0,
+      "plan_len_parsed": 4,
+      "optimal_moves": 38,
+      "raw_chars": 25
+    },
+    {
+      "id": "rush1000-441",
+      "planner": "openai",
+      "few_shot": 2,
+      "won": false,
+      "applied": 0,
+      "illegal_at": 0,
+      "plan_len_parsed": 10,
+      "optimal_moves": 40,
+      "raw_chars": 67
+    },
+    {
+      "id": "rush1000-996",
+      "planner": "openai",
+      "few_shot": 2,
+      "won": false,
+      "applied": 0,
+      "illegal_at": 0,
+      "plan_len_parsed": 4,
+      "optimal_moves": 38,
+      "raw_chars": 25
+    },
+    {
+      "id": "rush1000-499",
+      "planner": "openai",
+      "few_shot": 2,
+      "won": false,
+      "applied": 0,
+      "illegal_at": 0,
+      "plan_len_parsed": 11,
+      "optimal_moves": 40,
+      "raw_chars": 74
+    }
+  ],
+  "levels_file_meta": {
+    "source_file": "data/rush1000.txt",
+    "bins": "38-42,43-47,48-52,53-60",
+    "per_bin_target": 18,
+    "seed": 42,
+    "counts_per_bin": {
+      "38-42": {
+        "available": 766,
+        "selected": 18
+      },
+      "43-47": {
+        "available": 187,
+        "selected": 18
+      },
+      "48-52": {
+        "available": 36,
+        "selected": 18
+      },
+      "53-60": {
+        "available": 11,
+        "selected": 11
+      }
+    },
+    "total_selected": 65,
+    "easy_subset": true,
+    "max_optimal": 40,
+    "source_input": "data/levels_eval.json",
+    "original_count": 65,
+    "kept_count": 13
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "protocol": "iterative_one_move",
+  "levels": 13,
+  "wins": 0,
+  "win_rate": 0.0,
+  "total_api_calls": 13,
+  "mean_api_calls_per_level": 1.0,
+  "planner": "openai",
+  "few_shot": 2,
+  "max_steps": 600,
+  "per_level": [
+    {
+      "won": false,
+      "api_calls": 1,
+      "applied_moves": 0,
+      "first_illegal_step": 0,
+      "stop_reason": "illegal_move",
+      "id": "rush1000-427",
+      "planner": "openai",
+      "optimal_moves": 40,
+      "few_shot": 2
+    },
+    {
+      "won": false,
+      "api_calls": 1,
+      "applied_moves": 0,
+      "first_illegal_step": 0,
+      "stop_reason": "illegal_move",
+      "id": "rush1000-728",
+      "planner": "openai",
+      "optimal_moves": 39,
+      "few_shot": 2
+    },
+    {
+      "won": false,
+      "api_calls": 1,
+      "applied_moves": 0,
+      "first_illegal_step": 0,
+      "stop_reason": "illegal_move",
+      "id": "rush1000-583",
+      "planner": "openai",
+      "optimal_moves": 39,
+      "few_shot": 2
+    },
+    {
+      "won": false,
+      "api_calls": 1,
+      "applied_moves": 0,
+      "first_illegal_step": 0,
+      "stop_reason": "illegal_move",
+      "id": "rush1000-473",
+      "planner": "openai",
+      "optimal_moves": 40,
+      "few_shot": 2
+    },
+    {
+      "won": false,
+      "api_calls": 1,
+      "applied_moves": 0,
+      "first_illegal_step": 0,
+      "stop_reason": "illegal_move",
+      "id": "rush1000-890",
+      "planner": "openai",
+      "optimal_moves": 38,
+      "few_shot": 2
+    },
+    {
+      "won": false,
+      "api_calls": 1,
+      "applied_moves": 0,
+      "first_illegal_step": 0,
+      "stop_reason": "illegal_move",
+      "id": "rush1000-733",
+      "planner": "openai",
+      "optimal_moves": 39,
+      "few_shot": 2
+    },
+    {
+      "won": false,
+      "api_calls": 1,
+      "applied_moves": 0,
+      "first_illegal_step": 0,
+      "stop_reason": "illegal_move",
+      "id": "rush1000-963",
+      "planner": "openai",
+      "optimal_moves": 38,
+      "few_shot": 2
+    },
+    {
+      "won": false,
+      "api_calls": 1,
+      "applied_moves": 0,
+      "first_illegal_step": 0,
+      "stop_reason": "illegal_move",
+      "id": "rush1000-636",
+      "planner": "openai",
+      "optimal_moves": 39,
+      "few_shot": 2
+    },
+    {
+      "won": false,
+      "api_calls": 1,
+      "applied_moves": 0,
+      "first_illegal_step": 0,
+      "stop_reason": "illegal_move",
+      "id": "rush1000-787",
+      "planner": "openai",
+      "optimal_moves": 38,
+      "few_shot": 2
+    },
+    {
+      "won": false,
+      "api_calls": 1,
+      "applied_moves": 0,
+      "first_illegal_step": 0,
+      "stop_reason": "illegal_move",
+      "id": "rush1000-970",
+      "planner": "openai",
+      "optimal_moves": 38,
+      "few_shot": 2
+    },
+    {
+      "won": false,
+      "api_calls": 1,
+      "applied_moves": 0,
+      "first_illegal_step": 0,
+      "stop_reason": "illegal_move",
+      "id": "rush1000-441",
+      "planner": "openai",
+      "optimal_moves": 40,
+      "few_shot": 2
+    },
+    {
+      "won": false,
+      "api_calls": 1,
+      "applied_moves": 0,
+      "first_illegal_step": 0,
+      "stop_reason": "illegal_move",
+      "id": "rush1000-996",
+      "planner": "openai",
+      "optimal_moves": 38,
+      "few_shot": 2
+    },
+    {
+      "won": false,
+      "api_calls": 1,
+      "applied_moves": 0,
+      "first_illegal_step": 0,
+      "stop_reason": "illegal_move",
+      "id": "rush1000-499",
+      "planner": "openai",
+      "optimal_moves": 40,
+      "few_shot": 2
+    }
+  ],
+  "levels_file_meta": {
+    "source_file": "data/rush1000.txt",
+    "bins": "38-42,43-47,48-52,53-60",
+    "per_bin_target": 18,
+    "seed": 42,
+    "counts_per_bin": {
+      "38-42": {
+        "available": 766,
+        "selected": 18
+      },
+      "43-47": {
+        "available": 187,
+        "selected": 18
+      },
+      "48-52": {
+        "available": 36,
+        "selected": 18
+      },
+      "53-60": {
+        "available": 11,
+        "selected": 11
+      }
+    },
+    "total_selected": 65,
+    "easy_subset": true,
+    "max_optimal": 40,
+    "source_input": "data/levels_eval.json",
+    "original_count": 65,
+    "kept_count": 13
+  }
+}

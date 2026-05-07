@@ -1,0 +1,420 @@
+{
+  "protocol": "iterative_one_move",
+  "levels": 20,
+  "wins": 0,
+  "win_rate": 0.0,
+  "total_api_calls": 138,
+  "mean_api_calls_per_level": 6.9,
+  "planner": "openai",
+  "few_shot": 0,
+  "max_steps": 500,
+  "self_consistency_k": 3,
+  "retry_on_illegal": true,
+  "per_level": [
+    {
+      "won": false,
+      "api_calls": 15,
+      "applied_moves": 3,
+      "first_illegal_step": 3,
+      "stop_reason": "empty_parse",
+      "retries_used": 1,
+      "self_consistency_k": 3,
+      "retry_on_illegal": true,
+      "last_sc_prefix_lengths": [
+        0,
+        0,
+        0
+      ],
+      "id": "rush1000-418",
+      "planner": "openai",
+      "optimal_moves": 41,
+      "few_shot": 0
+    },
+    {
+      "won": false,
+      "api_calls": 6,
+      "applied_moves": 0,
+      "first_illegal_step": 0,
+      "stop_reason": "empty_parse",
+      "retries_used": 1,
+      "self_consistency_k": 3,
+      "retry_on_illegal": true,
+      "last_sc_prefix_lengths": [
+        0,
+        0,
+        0
+      ],
+      "id": "rush1000-427",
+      "planner": "openai",
+      "optimal_moves": 40,
+      "few_shot": 0
+    },
+    {
+      "won": false,
+      "api_calls": 6,
+      "applied_moves": 0,
+      "first_illegal_step": 0,
+      "stop_reason": "empty_parse",
+      "retries_used": 1,
+      "self_consistency_k": 3,
+      "retry_on_illegal": true,
+      "last_sc_prefix_lengths": [
+        0,
+        0,
+        0
+      ],
+      "id": "rush1000-335",
+      "planner": "openai",
+      "optimal_moves": 41,
+      "few_shot": 0
+    },
+    {
+      "won": false,
+      "api_calls": 9,
+      "applied_moves": 1,
+      "first_illegal_step": 1,
+      "stop_reason": "empty_parse",
+      "retries_used": 1,
+      "self_consistency_k": 3,
+      "retry_on_illegal": true,
+      "last_sc_prefix_lengths": [
+        0,
+        0,
+        0
+      ],
+      "id": "rush1000-728",
+      "planner": "openai",
+      "optimal_moves": 39,
+      "few_shot": 0
+    },
+    {
+      "won": false,
+      "api_calls": 6,
+      "applied_moves": 0,
+      "first_illegal_step": 0,
+      "stop_reason": "empty_parse",
+      "retries_used": 1,
+      "self_consistency_k": 3,
+      "retry_on_illegal": true,
+      "last_sc_prefix_lengths": [
+        0,
+        0,
+        0
+      ],
+      "id": "rush1000-583",
+      "planner": "openai",
+      "optimal_moves": 39,
+      "few_shot": 0
+    },
+    {
+      "won": false,
+      "api_calls": 6,
+      "applied_moves": 0,
+      "first_illegal_step": 0,
+      "stop_reason": "empty_parse",
+      "retries_used": 1,
+      "self_consistency_k": 3,
+      "retry_on_illegal": true,
+      "last_sc_prefix_lengths": [
+        0,
+        0,
+        0
+      ],
+      "id": "rush1000-473",
+      "planner": "openai",
+      "optimal_moves": 40,
+      "few_shot": 0
+    },
+    {
+      "won": false,
+      "api_calls": 6,
+      "applied_moves": 0,
+      "first_illegal_step": 0,
+      "stop_reason": "empty_parse",
+      "retries_used": 1,
+      "self_consistency_k": 3,
+      "retry_on_illegal": true,
+      "last_sc_prefix_lengths": [
+        0,
+        0,
+        0
+      ],
+      "id": "rush1000-424",
+      "planner": "openai",
+      "optimal_moves": 41,
+      "few_shot": 0
+    },
+    {
+      "won": false,
+      "api_calls": 6,
+      "applied_moves": 0,
+      "first_illegal_step": 0,
+      "stop_reason": "empty_parse",
+      "retries_used": 1,
+      "self_consistency_k": 3,
+      "retry_on_illegal": true,
+      "last_sc_prefix_lengths": [
+        0,
+        0,
+        0
+      ],
+      "id": "rush1000-890",
+      "planner": "openai",
+      "optimal_moves": 38,
+      "few_shot": 0
+    },
+    {
+      "won": false,
+      "api_calls": 6,
+      "applied_moves": 0,
+      "first_illegal_step": 0,
+      "stop_reason": "empty_parse",
+      "retries_used": 1,
+      "self_consistency_k": 3,
+      "retry_on_illegal": true,
+      "last_sc_prefix_lengths": [
+        0,
+        0,
+        0
+      ],
+      "id": "rush1000-733",
+      "planner": "openai",
+      "optimal_moves": 39,
+      "few_shot": 0
+    },
+    {
+      "won": false,
+      "api_calls": 6,
+      "applied_moves": 0,
+      "first_illegal_step": 0,
+      "stop_reason": "empty_parse",
+      "retries_used": 1,
+      "self_consistency_k": 3,
+      "retry_on_illegal": true,
+      "last_sc_prefix_lengths": [
+        0,
+        0,
+        0
+      ],
+      "id": "rush1000-963",
+      "planner": "openai",
+      "optimal_moves": 38,
+      "few_shot": 0
+    },
+    {
+      "won": false,
+      "api_calls": 9,
+      "applied_moves": 1,
+      "first_illegal_step": 1,
+      "stop_reason": "empty_parse",
+      "retries_used": 1,
+      "self_consistency_k": 3,
+      "retry_on_illegal": true,
+      "last_sc_prefix_lengths": [
+        0,
+        0,
+        0
+      ],
+      "id": "rush1000-636",
+      "planner": "openai",
+      "optimal_moves": 39,
+      "few_shot": 0
+    },
+    {
+      "won": false,
+      "api_calls": 6,
+      "applied_moves": 0,
+      "first_illegal_step": 0,
+      "stop_reason": "empty_parse",
+      "retries_used": 1,
+      "self_consistency_k": 3,
+      "retry_on_illegal": true,
+      "last_sc_prefix_lengths": [
+        0,
+        0,
+        0
+      ],
+      "id": "rush1000-787",
+      "planner": "openai",
+      "optimal_moves": 38,
+      "few_shot": 0
+    },
+    {
+      "won": false,
+      "api_calls": 6,
+      "applied_moves": 0,
+      "first_illegal_step": 0,
+      "stop_reason": "empty_parse",
+      "retries_used": 1,
+      "self_consistency_k": 3,
+      "retry_on_illegal": true,
+      "last_sc_prefix_lengths": [
+        0,
+        0,
+        0
+      ],
+      "id": "rush1000-970",
+      "planner": "openai",
+      "optimal_moves": 38,
+      "few_shot": 0
+    },
+    {
+      "won": false,
+      "api_calls": 6,
+      "applied_moves": 0,
+      "first_illegal_step": 0,
+      "stop_reason": "empty_parse",
+      "retries_used": 1,
+      "self_consistency_k": 3,
+      "retry_on_illegal": true,
+      "last_sc_prefix_lengths": [
+        0,
+        0,
+        0
+      ],
+      "id": "rush1000-384",
+      "planner": "openai",
+      "optimal_moves": 41,
+      "few_shot": 0
+    },
+    {
+      "won": false,
+      "api_calls": 6,
+      "applied_moves": 0,
+      "first_illegal_step": 0,
+      "stop_reason": "empty_parse",
+      "retries_used": 1,
+      "self_consistency_k": 3,
+      "retry_on_illegal": true,
+      "last_sc_prefix_lengths": [
+        0,
+        0,
+        0
+      ],
+      "id": "rush1000-441",
+      "planner": "openai",
+      "optimal_moves": 40,
+      "few_shot": 0
+    },
+    {
+      "won": false,
+      "api_calls": 9,
+      "applied_moves": 1,
+      "first_illegal_step": 1,
+      "stop_reason": "empty_parse",
+      "retries_used": 1,
+      "self_consistency_k": 3,
+      "retry_on_illegal": true,
+      "last_sc_prefix_lengths": [
+        0,
+        0,
+        0
+      ],
+      "id": "rush1000-298",
+      "planner": "openai",
+      "optimal_moves": 42,
+      "few_shot": 0
+    },
+    {
+      "won": false,
+      "api_calls": 6,
+      "applied_moves": 0,
+      "first_illegal_step": 0,
+      "stop_reason": "empty_parse",
+      "retries_used": 1,
+      "self_consistency_k": 3,
+      "retry_on_illegal": true,
+      "last_sc_prefix_lengths": [
+        0,
+        0,
+        0
+      ],
+      "id": "rush1000-996",
+      "planner": "openai",
+      "optimal_moves": 38,
+      "few_shot": 0
+    },
+    {
+      "won": false,
+      "api_calls": 6,
+      "applied_moves": 0,
+      "first_illegal_step": 0,
+      "stop_reason": "empty_parse",
+      "retries_used": 1,
+      "self_consistency_k": 3,
+      "retry_on_illegal": true,
+      "last_sc_prefix_lengths": [
+        0,
+        0,
+        0
+      ],
+      "id": "rush1000-499",
+      "planner": "openai",
+      "optimal_moves": 40,
+      "few_shot": 0
+    },
+    {
+      "won": false,
+      "api_calls": 6,
+      "applied_moves": 0,
+      "first_illegal_step": 0,
+      "stop_reason": "empty_parse",
+      "retries_used": 1,
+      "self_consistency_k": 3,
+      "retry_on_illegal": true,
+      "last_sc_prefix_lengths": [
+        0,
+        0,
+        0
+      ],
+      "id": "rush1000-193",
+      "planner": "openai",
+      "optimal_moves": 43,
+      "few_shot": 0
+    },
+    {
+      "won": false,
+      "api_calls": 6,
+      "applied_moves": 0,
+      "first_illegal_step": 0,
+      "stop_reason": "empty_parse",
+      "retries_used": 1,
+      "self_consistency_k": 3,
+      "retry_on_illegal": true,
+      "last_sc_prefix_lengths": [
+        0,
+        0,
+        0
+      ],
+      "id": "rush1000-212",
+      "planner": "openai",
+      "optimal_moves": 43,
+      "few_shot": 0
+    }
+  ],
+  "levels_file_meta": {
+    "source_file": "data/rush1000.txt",
+    "bins": "38-42,43-47,48-52,53-60",
+    "per_bin_target": 18,
+    "seed": 42,
+    "counts_per_bin": {
+      "38-42": {
+        "available": 766,
+        "selected": 18
+      },
+      "43-47": {
+        "available": 187,
+        "selected": 18
+      },
+      "48-52": {
+        "available": 36,
+        "selected": 18
+      },
+      "53-60": {
+        "available": 11,
+        "selected": 11
+      }
+    },
+    "total_selected": 65
+  }
+}

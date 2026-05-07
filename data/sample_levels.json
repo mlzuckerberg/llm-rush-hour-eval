@@ -1,0 +1,12 @@
+[
+  {"id": "rush1000-0", "optimal_moves": 60, "board": "IBBxooIooLDDJAALooJoKEEMFFKooMGGHHHM", "cluster": 2332},
+  {"id": "rush1000-1", "optimal_moves": 58, "board": "BBoKMxDDDKMoIAALooIoJLEEooJFFNoGGoxN", "cluster": 9192},
+  {"id": "rush1000-2", "optimal_moves": 55, "board": "ooBBMxDDDKMoAAJKoNooJEENIFFLooIGGLox", "cluster": 9712},
+  {"id": "rush1000-3", "optimal_moves": 55, "board": "ooBBMxDDDKMoAAJKoNooJEENIFFLooIGGLHH", "cluster": 8257},
+  {"id": "rush1000-4", "optimal_moves": 54, "board": "oxCCMoDDDKMoAAJKooooJLEEIFFLoNIGGoxN", "cluster": 6355},
+  {"id": "rush1000-5", "optimal_moves": 54, "board": "oooJLxCCCJLoHAAKooHoIKDDooIEEMoFFoxM", "cluster": 3461},
+  {"id": "rush1000-6", "optimal_moves": 54, "board": "oooJxoCCCJLoHAAKLoHoIKDDooIEEMoFFoxM", "cluster": 2948},
+  {"id": "rush1000-7", "optimal_moves": 54, "board": "BBBKCCDDoKoLIAAKoLIoJEEMFFJooMooxoHH", "cluster": 1845},
+  {"id": "rush1000-8", "optimal_moves": 53, "board": "BBBCCNDDoxMNJAAoMOJoKFFOGGKLooxIILoo", "cluster": 4705},
+  {"id": "rush1000-9", "optimal_moves": 53, "board": "ooBBoxDDDKooAAJKoMooJEEMIFFLooIGGLHH", "cluster": 4228}
+]

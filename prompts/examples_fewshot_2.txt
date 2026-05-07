@@ -1,0 +1,26 @@
+Example puzzle 1 (6×6, optimal solution length 1):
+
+ooAAoo
+oooooo
+oooooo
+oooooo
+oooooo
+oooooo
+
+Solution:
+
+A +2
+
+Example puzzle 2 (6×6, optimal solution length 2):
+
+ooAAoB
+oooooB
+oooooo
+oooooo
+oooooo
+oooooo
+
+Solution:
+
+B +1
+A +2

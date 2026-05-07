@@ -1,0 +1,419 @@
+{
+  "meta": {
+    "source_file": "data/rush1000.txt",
+    "bins": "38-42,43-47,48-52,53-60",
+    "per_bin_target": 18,
+    "seed": 42,
+    "counts_per_bin": {
+      "38-42": {
+        "available": 766,
+        "selected": 18
+      },
+      "43-47": {
+        "available": 187,
+        "selected": 18
+      },
+      "48-52": {
+        "available": 36,
+        "selected": 18
+      },
+      "53-60": {
+        "available": 11,
+        "selected": 11
+      }
+    },
+    "total_selected": 65
+  },
+  "levels": [
+    {
+      "id": "rush1000-418",
+      "optimal_moves": 41,
+      "board": "BBCCCMDDoxoMAAoooNJFFLoNJoKLGGJoKHHx",
+      "cluster": 724
+    },
+    {
+      "id": "rush1000-427",
+      "optimal_moves": 40,
+      "board": "oooxLoHCCKLMHAAKLMDDJooooIJEEooIFFGG",
+      "cluster": 24328
+    },
+    {
+      "id": "rush1000-335",
+      "optimal_moves": 41,
+      "board": "BBBJooHCCJoMHAAKLMDDIKLNooIEENoFFGGo",
+      "cluster": 14052
+    },
+    {
+      "id": "rush1000-728",
+      "optimal_moves": 39,
+      "board": "BBoxDDoooLEEAAoLoMJFFGGMJoKoHHJoKxoo",
+      "cluster": 1509
+    },
+    {
+      "id": "rush1000-583",
+      "optimal_moves": 39,
+      "board": "xCCCoLHoJDDLHoJAALHEEKoooIoKFFoIGGGo",
+      "cluster": 11902
+    },
+    {
+      "id": "rush1000-473",
+      "optimal_moves": 40,
+      "board": "BBBHooFooHJKFAAIJKCCGIJLooGDDLooxooo",
+      "cluster": 5136
+    },
+    {
+      "id": "rush1000-424",
+      "optimal_moves": 41,
+      "board": "oBBBCCDDKooMJoKAAMJEEEoMJFFLGGxIILoo",
+      "cluster": 476
+    },
+    {
+      "id": "rush1000-890",
+      "optimal_moves": 38,
+      "board": "HBBCCKHDDJoKAAIJoLooIEELFFIoooooooox",
+      "cluster": 4114
+    },
+    {
+      "id": "rush1000-733",
+      "optimal_moves": 39,
+      "board": "GBBKooGoIKCCHoIAALHoJDDLooJEEMxooooM",
+      "cluster": 1323
+    },
+    {
+      "id": "rush1000-963",
+      "optimal_moves": 38,
+      "board": "GBBBKLGoHIKLAAHIoLCCCJoooooJDDooxoxo",
+      "cluster": 1733
+    },
+    {
+      "id": "rush1000-636",
+      "optimal_moves": 39,
+      "board": "xoIKDDEEIKoLxHAAoLoHFFoMGGJooMooJooo",
+      "cluster": 4457
+    },
+    {
+      "id": "rush1000-787",
+      "optimal_moves": 38,
+      "board": "ooJBBxIoJDDNIAAKoNoooKEExGGLMooHHLMo",
+      "cluster": 22008
+    },
+    {
+      "id": "rush1000-970",
+      "optimal_moves": 38,
+      "board": "BBCCoKoxEEEKAAIJoKHoIJFFHGGGoooooooo",
+      "cluster": 1449
+    },
+    {
+      "id": "rush1000-384",
+      "optimal_moves": 41,
+      "board": "ooxICCooHIooAAHJKLDDDJKLoGEEoLoGFFoo",
+      "cluster": 2743
+    },
+    {
+      "id": "rush1000-441",
+      "optimal_moves": 40,
+      "board": "oJBBoxoJoLDDoAALoMEEKFFMIoKGGoIoKHHH",
+      "cluster": 13617
+    },
+    {
+      "id": "rush1000-298",
+      "optimal_moves": 42,
+      "board": "GBBBCCGHoooKGHAAoKDDDJoKooIJEEFFIooo",
+      "cluster": 1994
+    },
+    {
+      "id": "rush1000-996",
+      "optimal_moves": 38,
+      "board": "ooKBBBCCKLMNJAALMNJDDooOEEoxxOHHHIIO",
+      "cluster": 1078
+    },
+    {
+      "id": "rush1000-499",
+      "optimal_moves": 40,
+      "board": "HIBBCCHIoDDxHAAKLoFFFKLoooJoLMooJGGM",
+      "cluster": 2721
+    },
+    {
+      "id": "rush1000-193",
+      "optimal_moves": 43,
+      "board": "xCCJLNooIJLNAAIoMoGHDDMoGHoKMxFFoKoo",
+      "cluster": 4442
+    },
+    {
+      "id": "rush1000-212",
+      "optimal_moves": 43,
+      "board": "xooJCCGHoJKoGHAAKoDDIoLMooIxLMFFFoLM",
+      "cluster": 2407
+    },
+    {
+      "id": "rush1000-57",
+      "optimal_moves": 47,
+      "board": "ooooxoCCCJLoAAIJLoooIDDoHEEKooHFFKox",
+      "cluster": 1783
+    },
+    {
+      "id": "rush1000-97",
+      "optimal_moves": 45,
+      "board": "GBBBooGCCCKLAAHIKLDDHIKLoooJEEoFFJoo",
+      "cluster": 6449
+    },
+    {
+      "id": "rush1000-195",
+      "optimal_moves": 43,
+      "board": "xoCCCoGooJKMGAAJKMDDIoLMoHIoLooHEEFF",
+      "cluster": 4155
+    },
+    {
+      "id": "rush1000-120",
+      "optimal_moves": 44,
+      "board": "BBJooxDDJooLooJAALIooKEEIFFKoooxoKHH",
+      "cluster": 13421
+    },
+    {
+      "id": "rush1000-100",
+      "optimal_moves": 45,
+      "board": "BBBoooooICCxAAIJLMHEEJLMHooKFFGGGKoo",
+      "cluster": 5939
+    },
+    {
+      "id": "rush1000-169",
+      "optimal_moves": 44,
+      "board": "oHBBLMxHIoLMFoIAANFDDKoNGoJKoNGoJEEE",
+      "cluster": 495
+    },
+    {
+      "id": "rush1000-112",
+      "optimal_moves": 45,
+      "board": "FBBIJKFoGIJKAAGIoLCCDDoLooHoooooHEEE",
+      "cluster": 1168
+    },
+    {
+      "id": "rush1000-58",
+      "optimal_moves": 47,
+      "board": "oooIBBoCCIKoAAHJKoDDHJEEGFFFoLGooooL",
+      "cluster": 1212
+    },
+    {
+      "id": "rush1000-229",
+      "optimal_moves": 43,
+      "board": "BBxDDNKEEMoNKAAMoOooLFFOGGLooooxIIJJ",
+      "cluster": 1016
+    },
+    {
+      "id": "rush1000-64",
+      "optimal_moves": 46,
+      "board": "BBJoooHIJoMxHIAAMNHDDLoNooKLEEooKFFx",
+      "cluster": 15495
+    },
+    {
+      "id": "rush1000-186",
+      "optimal_moves": 43,
+      "board": "oHBBCCoHoJDDAAoJKoGEEEKoGoIoKLGoIFFL",
+      "cluster": 5402
+    },
+    {
+      "id": "rush1000-47",
+      "optimal_moves": 47,
+      "board": "BBoxooDDoJoKHAAJoKHoIEELFFIooLooIGGG",
+      "cluster": 7651
+    },
+    {
+      "id": "rush1000-160",
+      "optimal_moves": 44,
+      "board": "BBKCCNIoKoMNIoAAMoIDDLMoxJoLoxoJGGHH",
+      "cluster": 1762
+    },
+    {
+      "id": "rush1000-155",
+      "optimal_moves": 44,
+      "board": "IBBoNoIJKxNOoJKAAODDLEEOooLMFFxHHMoo",
+      "cluster": 2999
+    },
+    {
+      "id": "rush1000-217",
+      "optimal_moves": 43,
+      "board": "BBCCoxoooMEEAAoMoNKFFGGNKoLoHHKxLJJJ",
+      "cluster": 1681
+    },
+    {
+      "id": "rush1000-88",
+      "optimal_moves": 45,
+      "board": "HooxoLHCCKoLAAJKoLDDJooooIJoEEoIFFGG",
+      "cluster": 11811
+    },
+    {
+      "id": "rush1000-34",
+      "optimal_moves": 48,
+      "board": "HIoxxoHIDDLoHAAKLooooKEEooJFFMGGJooM",
+      "cluster": 53517
+    },
+    {
+      "id": "rush1000-21",
+      "optimal_moves": 50,
+      "board": "ooxCCLDDoKoLIAAKooIoJKEEFFJooMGGGHHM",
+      "cluster": 1845
+    },
+    {
+      "id": "rush1000-24",
+      "optimal_moves": 49,
+      "board": "oooJBBoCCJLoAAIKLoDDIKEEHFFFoMHoGGoM",
+      "cluster": 4192
+    },
+    {
+      "id": "rush1000-36",
+      "optimal_moves": 48,
+      "board": "BBBKLMHCCKLMHoAALoDDJooooIJEEooIFFGG",
+      "cluster": 37740
+    },
+    {
+      "id": "rush1000-28",
+      "optimal_moves": 49,
+      "board": "GBBoLoGHIoLMGHIAAMCCCKoMooJKDDEEJoxo",
+      "cluster": 3448
+    },
+    {
+      "id": "rush1000-11",
+      "optimal_moves": 52,
+      "board": "oxCCMNDDDKMNAAJKooooJEEoIFFLooIGGLox",
+      "cluster": 7178
+    },
+    {
+      "id": "rush1000-45",
+      "optimal_moves": 48,
+      "board": "xCCMooooLMDDKoLAANKEEooNKFFGGOxIIJJO",
+      "cluster": 1149
+    },
+    {
+      "id": "rush1000-35",
+      "optimal_moves": 48,
+      "board": "HIoxCCHIDDLoHAAKLooooKEEooJFFMGGJooM",
+      "cluster": 42215
+    },
+    {
+      "id": "rush1000-26",
+      "optimal_moves": 49,
+      "board": "oxCCoMDDDKoMAAJKooooJLEEIFFLooIGGHHo",
+      "cluster": 3711
+    },
+    {
+      "id": "rush1000-43",
+      "optimal_moves": 48,
+      "board": "xCCLooooKLDDJoKAAMJEEooMJFFGGNHHHIIN",
+      "cluster": 1440
+    },
+    {
+      "id": "rush1000-46",
+      "optimal_moves": 48,
+      "board": "xCCMooooLMDDKoLAANKEEooNKFFGGOHHxJJO",
+      "cluster": 955
+    },
+    {
+      "id": "rush1000-39",
+      "optimal_moves": 48,
+      "board": "xCCKooooJKDDIoJAALIEEooLIFFGGMoHHHoM",
+      "cluster": 4155
+    },
+    {
+      "id": "rush1000-44",
+      "optimal_moves": 48,
+      "board": "xooJCCGHoJKMGHAAKMDDIoLNooIxLNFFFoLN",
+      "cluster": 1382
+    },
+    {
+      "id": "rush1000-17",
+      "optimal_moves": 50,
+      "board": "ooooxoCCCJLoAAIJLMooIDDMHEEKooHFFKox",
+      "cluster": 3874
+    },
+    {
+      "id": "rush1000-22",
+      "optimal_moves": 50,
+      "board": "BBBJCCHooJoKHAAJoKooIDDLEEIooLooxoGG",
+      "cluster": 1066
+    },
+    {
+      "id": "rush1000-32",
+      "optimal_moves": 49,
+      "board": "ooHBBBooHJooAAIJoKCCIDDKoGEEoKoGFFoo",
+      "cluster": 2295
+    },
+    {
+      "id": "rush1000-41",
+      "optimal_moves": 48,
+      "board": "oooooxCCCJooAAIJoLooIDDLHEEKooHFFKGG",
+      "cluster": 1557
+    },
+    {
+      "id": "rush1000-14",
+      "optimal_moves": 51,
+      "board": "GBBoLoGHIoLMGHIAAMCCCKoMooJKDDEEJFFo",
+      "cluster": 4780
+    },
+    {
+      "id": "rush1000-4",
+      "optimal_moves": 54,
+      "board": "oxCCMoDDDKMoAAJKooooJLEEIFFLoNIGGoxN",
+      "cluster": 6355
+    },
+    {
+      "id": "rush1000-9",
+      "optimal_moves": 53,
+      "board": "ooBBoxDDDKooAAJKoMooJEEMIFFLooIGGLHH",
+      "cluster": 4228
+    },
+    {
+      "id": "rush1000-8",
+      "optimal_moves": 53,
+      "board": "BBBCCNDDoxMNJAAoMOJoKFFOGGKLooxIILoo",
+      "cluster": 4705
+    },
+    {
+      "id": "rush1000-7",
+      "optimal_moves": 54,
+      "board": "BBBKCCDDoKoLIAAKoLIoJEEMFFJooMooxoHH",
+      "cluster": 1845
+    },
+    {
+      "id": "rush1000-2",
+      "optimal_moves": 55,
+      "board": "ooBBMxDDDKMoAAJKoNooJEENIFFLooIGGLox",
+      "cluster": 9712
+    },
+    {
+      "id": "rush1000-5",
+      "optimal_moves": 54,
+      "board": "oooJLxCCCJLoHAAKooHoIKDDooIEEMoFFoxM",
+      "cluster": 3461
+    },
+    {
+      "id": "rush1000-6",
+      "optimal_moves": 54,
+      "board": "oooJxoCCCJLoHAAKLoHoIKDDooIEEMoFFoxM",
+      "cluster": 2948
+    },
+    {
+      "id": "rush1000-10",
+      "optimal_moves": 53,
+      "board": "ooBBoxDDDKooAAJKoMooJEEMIFFLooIGGLox",
+      "cluster": 4102
+    },
+    {
+      "id": "rush1000-3",
+      "optimal_moves": 55,
+      "board": "ooBBMxDDDKMoAAJKoNooJEENIFFLooIGGLHH",
+      "cluster": 8257
+    },
+    {
+      "id": "rush1000-1",
+      "optimal_moves": 58,
+      "board": "BBoKMxDDDKMoIAALooIoJLEEooJFFNoGGoxN",
+      "cluster": 9192
+    },
+    {
+      "id": "rush1000-0",
+      "optimal_moves": 60,
+      "board": "IBBxooIooLDDJAALooJoKEEMFFKooMGGHHHM",
+      "cluster": 2332
+    }
+  ]
+}

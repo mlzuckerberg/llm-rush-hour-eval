@@ -1,0 +1,86 @@
+{
+  "model_type": "trained_next_move_probe",
+  "features": "tfidf_char_1_3",
+  "classifier": "logistic_regression_multinomial",
+  "train_levels": 52,
+  "test_levels": 13,
+  "train_examples": 2408,
+  "test_examples": 589,
+  "next_move_accuracy": 0.15449915110356535,
+  "next_move_legal_rate": 0.5959252971137521,
+  "rollout_eval": {
+    "levels": 13,
+    "wins": 0,
+    "win_rate": 0.0,
+    "mean_applied_moves": 15.923076923076923,
+    "per_level": [
+      {
+        "id": "rush1000-473",
+        "won": false,
+        "applied_moves": 0
+      },
+      {
+        "id": "rush1000-217",
+        "won": false,
+        "applied_moves": 3
+      },
+      {
+        "id": "rush1000-7",
+        "won": false,
+        "applied_moves": 1
+      },
+      {
+        "id": "rush1000-35",
+        "won": false,
+        "applied_moves": 1
+      },
+      {
+        "id": "rush1000-424",
+        "won": false,
+        "applied_moves": 0
+      },
+      {
+        "id": "rush1000-3",
+        "won": false,
+        "applied_moves": 1
+      },
+      {
+        "id": "rush1000-733",
+        "won": false,
+        "applied_moves": 0
+      },
+      {
+        "id": "rush1000-0",
+        "won": false,
+        "applied_moves": 0
+      },
+      {
+        "id": "rush1000-298",
+        "won": false,
+        "applied_moves": 200
+      },
+      {
+        "id": "rush1000-499",
+        "won": false,
+        "applied_moves": 0
+      },
+      {
+        "id": "rush1000-39",
+        "won": false,
+        "applied_moves": 0
+      },
+      {
+        "id": "rush1000-728",
+        "won": false,
+        "applied_moves": 1
+      },
+      {
+        "id": "rush1000-441",
+        "won": false,
+        "applied_moves": 0
+      }
+    ]
+  },
+  "seed": 42,
+  "max_steps": 200
+}

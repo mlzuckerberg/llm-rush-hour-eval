@@ -1,0 +1,3 @@
+file,levels,median_optimal,planner,protocol,win_rate,wins
+evaluation_outputs/oracle_levels_eval.json,65,46.0,oracle,,1.0,65
+evaluation_outputs/random_seed42.json,65,46.0,random,,0.3230769230769231,21

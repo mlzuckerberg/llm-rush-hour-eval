@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "purpose": "paper qualitative appendix; subset of levels_eval.json"
+  },
+  "levels": [
+    {
+      "id": "rush1000-418",
+      "optimal_moves": 41,
+      "board": "BBCCCMDDoxoMAAoooNJFFLoNJoKLGGJoKHHx",
+      "cluster": 724
+    },
+    {
+      "id": "rush1000-473",
+      "optimal_moves": 40,
+      "board": "BBBHooFooHJKFAAIJKCCGIJLooGDDLooxooo",
+      "cluster": 5136
+    },
+    {
+      "id": "rush1000-427",
+      "optimal_moves": 40,
+      "board": "oooxLoHCCKLMHAAKLMDDJooooIJEEooIFFGG",
+      "cluster": 24328
+    }
+  ]
+}

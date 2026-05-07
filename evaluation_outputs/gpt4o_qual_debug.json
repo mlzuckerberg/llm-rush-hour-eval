@@ -1,0 +1,241 @@
+{
+  "levels": 3,
+  "wins": 0,
+  "win_rate": 0.0,
+  "planner": "openai",
+  "few_shot": 0,
+  "seed": 0,
+  "per_level": [
+    {
+      "id": "rush1000-418",
+      "planner": "openai",
+      "few_shot": 0,
+      "won": false,
+      "applied": 0,
+      "illegal_at": 0,
+      "plan_len_parsed": 11,
+      "optimal_moves": 41,
+      "raw_chars": 74,
+      "raw_preview": "D -1  \nB -1  \nC -1  \nM -3  \nA +3  \nN +1  \nL +1  \nK +1  \nJ -1  \nF +1  \nA +2",
+      "parsed_preview": [
+        [
+          "D",
+          -1
+        ],
+        [
+          "B",
+          -1
+        ],
+        [
+          "C",
+          -1
+        ],
+        [
+          "M",
+          -3
+        ],
+        [
+          "A",
+          3
+        ],
+        [
+          "N",
+          1
+        ],
+        [
+          "L",
+          1
+        ],
+        [
+          "K",
+          1
+        ],
+        [
+          "J",
+          -1
+        ],
+        [
+          "F",
+          1
+        ],
+        [
+          "A",
+          2
+        ]
+      ],
+      "legal_moves_preview": [
+        [
+          "A",
+          1
+        ],
+        [
+          "A",
+          2
+        ],
+        [
+          "A",
+          3
+        ],
+        [
+          "D",
+          1
+        ],
+        [
+          "L",
+          -1
+        ]
+      ]
+    },
+    {
+      "id": "rush1000-473",
+      "planner": "openai",
+      "few_shot": 0,
+      "won": false,
+      "applied": 0,
+      "illegal_at": 0,
+      "plan_len_parsed": 11,
+      "optimal_moves": 40,
+      "raw_chars": 74,
+      "raw_preview": "F -1  \nB -1  \nB -1  \nA +2  \nJ +1  \nJ +1  \nA +2  \nH -1  \nH -1  \nB +3  \nA +2",
+      "parsed_preview": [
+        [
+          "F",
+          -1
+        ],
+        [
+          "B",
+          -1
+        ],
+        [
+          "B",
+          -1
+        ],
+        [
+          "A",
+          2
+        ],
+        [
+          "J",
+          1
+        ],
+        [
+          "J",
+          1
+        ],
+        [
+          "A",
+          2
+        ],
+        [
+          "H",
+          -1
+        ],
+        [
+          "H",
+          -1
+        ],
+        [
+          "B",
+          3
+        ],
+        [
+          "A",
+          2
+        ]
+      ],
+      "legal_moves_preview": [
+        [
+          "J",
+          -1
+        ],
+        [
+          "K",
+          -1
+        ],
+        [
+          "L",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "rush1000-427",
+      "planner": "openai",
+      "few_shot": 0,
+      "won": false,
+      "applied": 0,
+      "illegal_at": 0,
+      "plan_len_parsed": 8,
+      "optimal_moves": 40,
+      "raw_chars": 53,
+      "raw_preview": "H -2  \nC -1  \nA +3  \nK -1  \nJ -1  \nD +1  \nI +1  \nA +2",
+      "parsed_preview": [
+        [
+          "H",
+          -2
+        ],
+        [
+          "C",
+          -1
+        ],
+        [
+          "A",
+          3
+        ],
+        [
+          "K",
+          -1
+        ],
+        [
+          "J",
+          -1
+        ],
+        [
+          "D",
+          1
+        ],
+        [
+          "I",
+          1
+        ],
+        [
+          "A",
+          2
+        ]
+      ],
+      "legal_moves_preview": [
+        [
+          "E",
+          1
+        ],
+        [
+          "H",
+          -1
+        ],
+        [
+          "K",
+          1
+        ],
+        [
+          "L",
+          1
+        ],
+        [
+          "M",
+          -1
+        ],
+        [
+          "M",
+          1
+        ],
+        [
+          "M",
+          2
+        ]
+      ]
+    }
+  ],
+  "levels_file_meta": {
+    "purpose": "paper qualitative appendix; subset of levels_eval.json"
+  }
+}
